@@ -1,0 +1,2 @@
+# rubyexercices
+Exercices du jeu
